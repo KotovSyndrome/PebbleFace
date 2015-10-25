@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "images/KS",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
                 "file": "fonts/Playtime with Hot Toddies",
                 "name": "FONT_PLAYTIME_WITH_HOT_TODDIES_48",
                 "type": "font"
