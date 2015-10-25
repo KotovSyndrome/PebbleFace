@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Payam Katoozian",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Playtime with Hot Toddies",
+                "name": "FONT_PLAYTIME_WITH_HOT_TODDIES_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1162d3fe-f4b4-4946-962c-1cc78d7a55cd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
